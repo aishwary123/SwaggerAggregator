@@ -1,0 +1,7 @@
+com/vmware/swagger/models/SwaggerConfigObject.class
+com/vmware/swagger/controller/SwaggerController.class
+com/vmware/swagger/utils/JsonParser.class
+com/vmware/swagger/messages/CustomMessages.class
+com/vmware/swagger/config/SwaggerServiceConfig.class
+com/vmware/swagger/SwaggerAggregatorServiceApplication.class
+com/vmware/swagger/provider/PropertyResourceProvider.class
